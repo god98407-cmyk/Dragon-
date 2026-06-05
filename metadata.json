@@ -1,0 +1,6 @@
+{
+  "name": "AI Operating Assistant",
+  "description": "An advanced, autonomous Android AI operating assistant with local database memory, file management tools, real-time resource tracking, and agentic task execution capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
